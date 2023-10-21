@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iSpeakNerd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 - 🔭 I’m currently working on building [Collab.Land](https://github.com/abridged) documentation/educational content/DAO energizing, and blogging on mirror.
-<!-- - 🌱 I’m currently learning javascript with [Autocode](https://autocode.com/) and building discord bots leveraging the [Discord API](https://discord.com/developers/docs/intro) and webhooks. -->
 - 💬 Ask me about designing functional discord chat spaces for internet-native organizations, tooling for DAOs, and how to onboard to web3.
+- ex-[Bankless Academy](https://app.banklessacademy.com/) educational content director
 
-<!--
+
+<!-- - 🌱 I’m currently learning javascript with [Autocode](https://autocode.com/) and building discord bots leveraging the [Discord API](https://discord.com/developers/docs/intro) and webhooks.
+
 **iSpeakNerd/iSpeakNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ex-[Bankless Academy](https://app.banklessacademy.com/) educational content director
+### 🏆 Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ispeaknerd&theme=dracula&rank=-C,-B,-UNKNOWN&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
