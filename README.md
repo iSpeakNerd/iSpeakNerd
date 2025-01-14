@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🏆 Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ispeaknerd&theme=dracula&rank=-C,-B,-UNKNOWN&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ispeaknerd&theme=dracula&rank=SSS,SS,S,AAA,AA,A&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
