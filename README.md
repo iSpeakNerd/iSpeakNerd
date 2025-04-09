@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about explaining developer material, using TypeScript in web3, and recording board game data.
+<!-- - 💬 Ask me about explaining developer material, using TypeScript in web3, and recording board game data. -->
 
 
 <!-- - 🌱 I’m currently learning javascript with [Autocode](https://autocode.com/) and building discord bots leveraging the [Discord API](https://discord.com/developers/docs/intro) and webhooks.
